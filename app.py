@@ -12,7 +12,7 @@ from flask import Flask
 from flask_cors import CORS
 import os
 
-df_jobs = pd.read_csv('Table02_NationalHealthExpendituresByType_BillionDollars.csv')
+df_TypeBD = pd.read_csv('Table02_NationalHealthExpendituresByType_BillionDollars.csv')
 #df_wages = pd.read_csv('nyt_255_wages.csv')
 
 series = {
