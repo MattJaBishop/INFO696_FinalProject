@@ -1,0 +1,463 @@
+Type of Expenditure,Level,Year,Cost
+National Health Expenditures,1,1960,27.2
+National Health Expenditures,1,1970,74.6
+National Health Expenditures,1,1980,255.3
+National Health Expenditures,1,1990,721.4
+National Health Expenditures,1,2000,1369.2
+National Health Expenditures,1,2001,1486.2
+National Health Expenditures,1,2002,1628.7
+National Health Expenditures,1,2003,1767.6
+National Health Expenditures,1,2004,1895.8
+National Health Expenditures,1,2005,2023.8
+National Health Expenditures,1,2006,2156.3
+National Health Expenditures,1,2007,2295.4
+National Health Expenditures,1,2008,2399.3
+National Health Expenditures,1,2009,2495.6
+National Health Expenditures,1,2010,2598.6
+National Health Expenditures,1,2011,2690.6
+National Health Expenditures,1,2012,2798
+National Health Expenditures,1,2013,2881.8
+National Health Expenditures,1,2014,3030.9
+National Health Expenditures,1,2015,3205.9
+National Health Expenditures,1,2016,3361.1
+National Health Expenditures,1,2017,3492.1
+Health Consumption Expenditures,2,1960,24.7
+Health Consumption Expenditures,2,1970,67
+Health Consumption Expenditures,2,1980,235.5
+Health Consumption Expenditures,2,1990,674.1
+Health Consumption Expenditures,2,2000,1285.9
+Health Consumption Expenditures,2,2001,1398.8
+Health Consumption Expenditures,2,2002,1531.9
+Health Consumption Expenditures,2,2003,1663.9
+Health Consumption Expenditures,2,2004,1784.4
+Health Consumption Expenditures,2,2005,1904.1
+Health Consumption Expenditures,2,2006,2031.1
+Health Consumption Expenditures,2,2007,2157
+Health Consumption Expenditures,2,2008,2251.3
+Health Consumption Expenditures,2,2009,2356.6
+Health Consumption Expenditures,2,2010,2455.9
+Health Consumption Expenditures,2,2011,2541.3
+Health Consumption Expenditures,2,2012,2644.9
+Health Consumption Expenditures,2,2013,2728.6
+Health Consumption Expenditures,2,2014,2881.1
+Health Consumption Expenditures,2,2015,3051.5
+Health Consumption Expenditures,2,2016,3202.9
+Health Consumption Expenditures,2,2017,3324.5
+Personal Health Care,3,1960,23.3
+Personal Health Care,3,1970,63.1
+Personal Health Care,3,1980,217
+Personal Health Care,3,1990,615.3
+Personal Health Care,3,2000,1161.5
+Personal Health Care,3,2001,1261.4
+Personal Health Care,3,2002,1367.1
+Personal Health Care,3,2003,1477.2
+Personal Health Care,3,2004,1587.5
+Personal Health Care,3,2005,1695.7
+Personal Health Care,3,2006,1804.3
+Personal Health Care,3,2007,1918.4
+Personal Health Care,3,2008,2010.7
+Personal Health Care,3,2009,2114.6
+Personal Health Care,3,2010,2196.1
+Personal Health Care,3,2011,2274.1
+Personal Health Care,3,2012,2367.4
+Personal Health Care,3,2013,2438
+Personal Health Care,3,2014,2561.5
+Personal Health Care,3,2015,2717.8
+Personal Health Care,3,2016,2851.9
+Personal Health Care,3,2017,2961
+Hospital Care,4,1960,9
+Hospital Care,4,1970,27.2
+Hospital Care,4,1980,100.5
+Hospital Care,4,1990,250.4
+Hospital Care,4,2000,415.5
+Hospital Care,4,2001,449.4
+Hospital Care,4,2002,486.5
+Hospital Care,4,2003,525.9
+Hospital Care,4,2004,565.3
+Hospital Care,4,2005,608.6
+Hospital Care,4,2006,651.2
+Hospital Care,4,2007,691.9
+Hospital Care,4,2008,725.6
+Hospital Care,4,2009,779.6
+Hospital Care,4,2010,822.3
+Hospital Care,4,2011,851.9
+Hospital Care,4,2012,902.5
+Hospital Care,4,2013,937.6
+Hospital Care,4,2014,978.2
+Hospital Care,4,2015,1034.5
+Hospital Care,4,2016,1092.8
+Hospital Care,4,2017,1142.6
+Professional Services,4,1960,7.9
+Professional Services,4,1970,19.8
+Professional Services,4,1980,64.5
+Professional Services,4,1990,207.3
+Professional Services,4,2000,387
+Professional Services,4,2001,420.7
+Professional Services,4,2002,454.6
+Professional Services,4,2003,487.1
+Professional Services,4,2004,521.8
+Professional Services,4,2005,553
+Professional Services,4,2006,581.8
+Professional Services,4,2007,615.3
+Professional Services,4,2008,649.1
+Professional Services,4,2009,667.8
+Professional Services,4,2010,688.3
+Professional Services,4,2011,716.6
+Professional Services,4,2012,743.2
+Professional Services,4,2013,759.4
+Professional Services,4,2014,792.5
+Professional Services,4,2015,838
+Professional Services,4,2016,884
+Professional Services,4,2017,920
+Physician and Clinical Services,5,1960,5.6
+Physician and Clinical Services,5,1970,14.3
+Physician and Clinical Services,5,1980,47.7
+Physician and Clinical Services,5,1990,158.4
+Physician and Clinical Services,5,2000,288.2
+Physician and Clinical Services,5,2001,312.7
+Physician and Clinical Services,5,2002,337.7
+Physician and Clinical Services,5,2003,364.3
+Physician and Clinical Services,5,2004,389.4
+Physician and Clinical Services,5,2005,413
+Physician and Clinical Services,5,2006,434.7
+Physician and Clinical Services,5,2007,457.5
+Physician and Clinical Services,5,2008,481.9
+Physician and Clinical Services,5,2009,497.7
+Physician and Clinical Services,5,2010,512.6
+Physician and Clinical Services,5,2011,535.9
+Physician and Clinical Services,5,2012,557.1
+Physician and Clinical Services,5,2013,569.6
+Physician and Clinical Services,5,2014,595.7
+Physician and Clinical Services,5,2015,631.2
+Physician and Clinical Services,5,2016,666.5
+Physician and Clinical Services,5,2017,694.3
+Other Professional Services,5,1960,0.4
+Other Professional Services,5,1970,0.7
+Other Professional Services,5,1980,3.5
+Other Professional Services,5,1990,17.3
+Other Professional Services,5,2000,36.6
+Other Professional Services,5,2001,40.3
+Other Professional Services,5,2002,43.3
+Other Professional Services,5,2003,46.5
+Other Professional Services,5,2004,50.2
+Other Professional Services,5,2005,52.8
+Other Professional Services,5,2006,55.3
+Other Professional Services,5,2007,60.1
+Other Professional Services,5,2008,64.5
+Other Professional Services,5,2009,67
+Other Professional Services,5,2010,69.9
+Other Professional Services,5,2011,72.8
+Other Professional Services,5,2012,76.4
+Other Professional Services,5,2013,78.7
+Other Professional Services,5,2014,83
+Other Professional Services,5,2015,87.8
+Other Professional Services,5,2016,92.4
+Other Professional Services,5,2017,96.6
+Dental Services,5,1960,2
+Dental Services,5,1970,4.7
+Dental Services,5,1980,13.3
+Dental Services,5,1990,31.6
+Dental Services,5,2000,62.1
+Dental Services,5,2001,67.7
+Dental Services,5,2002,73.6
+Dental Services,5,2003,76.3
+Dental Services,5,2004,82.2
+Dental Services,5,2005,87.2
+Dental Services,5,2006,91.8
+Dental Services,5,2007,97.7
+Dental Services,5,2008,102.7
+Dental Services,5,2009,103.1
+Dental Services,5,2010,105.9
+Dental Services,5,2011,108
+Dental Services,5,2012,109.7
+Dental Services,5,2013,111.1
+Dental Services,5,2014,113.8
+Dental Services,5,2015,118.9
+Dental Services,5,2016,125.1
+Dental Services,5,2017,129.1
+"Other Health, Residential, and Personal Care",4,1960,0.4
+"Other Health, Residential, and Personal Care",4,1970,1.3
+"Other Health, Residential, and Personal Care",4,1980,8.4
+"Other Health, Residential, and Personal Care",4,1990,23.8
+"Other Health, Residential, and Personal Care",4,2000,63.9
+"Other Health, Residential, and Personal Care",4,2001,70
+"Other Health, Residential, and Personal Care",4,2002,76.7
+"Other Health, Residential, and Personal Care",4,2003,82.5
+"Other Health, Residential, and Personal Care",4,2004,89.3
+"Other Health, Residential, and Personal Care",4,2005,95
+"Other Health, Residential, and Personal Care",4,2006,101.1
+"Other Health, Residential, and Personal Care",4,2007,108.3
+"Other Health, Residential, and Personal Care",4,2008,114.5
+"Other Health, Residential, and Personal Care",4,2009,123.4
+"Other Health, Residential, and Personal Care",4,2010,129.1
+"Other Health, Residential, and Personal Care",4,2011,131.7
+"Other Health, Residential, and Personal Care",4,2012,139.1
+"Other Health, Residential, and Personal Care",4,2013,144.3
+"Other Health, Residential, and Personal Care",4,2014,151.5
+"Other Health, Residential, and Personal Care",4,2015,164.7
+"Other Health, Residential, and Personal Care",4,2016,173.4
+"Other Health, Residential, and Personal Care",4,2017,183.1
+Home Health Care,4,1960,0.1
+Home Health Care,4,1970,0.2
+Home Health Care,4,1980,2.4
+Home Health Care,4,1990,12.5
+Home Health Care,4,2000,32.3
+Home Health Care,4,2001,34.3
+Home Health Care,4,2002,36.5
+Home Health Care,4,2003,40.2
+Home Health Care,4,2004,44.6
+Home Health Care,4,2005,49.3
+Home Health Care,4,2006,52.1
+Home Health Care,4,2007,57.5
+Home Health Care,4,2008,62.3
+Home Health Care,4,2009,67.7
+Home Health Care,4,2010,71.6
+Home Health Care,4,2011,74.6
+Home Health Care,4,2012,78.3
+Home Health Care,4,2013,81.4
+Home Health Care,4,2014,84.8
+Home Health Care,4,2015,89.2
+Home Health Care,4,2016,93.1
+Home Health Care,4,2017,97
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1960,0.8
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1970,4
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1980,15.3
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1990,44.7
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2000,85
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2001,90.8
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2002,94.5
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2003,100.1
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2004,105.1
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2005,111.4
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2006,115.9
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2007,124.9
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2008,130.5
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2009,135.2
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2010,140.5
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2011,145.4
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2012,147.4
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2013,149
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2014,152.4
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2015,158.1
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2016,163
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2017,166.3
+Retail Outlet Sales of Medical Products,4,1960,5
+Retail Outlet Sales of Medical Products,4,1970,10.6
+Retail Outlet Sales of Medical Products,4,1980,25.9
+Retail Outlet Sales of Medical Products,4,1990,76.5
+Retail Outlet Sales of Medical Products,4,2000,177.8
+Retail Outlet Sales of Medical Products,4,2001,196.4
+Retail Outlet Sales of Medical Products,4,2002,218.3
+Retail Outlet Sales of Medical Products,4,2003,241.4
+Retail Outlet Sales of Medical Products,4,2004,261.3
+Retail Outlet Sales of Medical Products,4,2005,278.3
+Retail Outlet Sales of Medical Products,4,2006,302.3
+Retail Outlet Sales of Medical Products,4,2007,320.5
+Retail Outlet Sales of Medical Products,4,2008,328.6
+Retail Outlet Sales of Medical Products,4,2009,340.9
+Retail Outlet Sales of Medical Products,4,2010,344.3
+Retail Outlet Sales of Medical Products,4,2011,353.9
+Retail Outlet Sales of Medical Products,4,2012,356.8
+Retail Outlet Sales of Medical Products,4,2013,366.3
+Retail Outlet Sales of Medical Products,4,2014,402.1
+Retail Outlet Sales of Medical Products,4,2015,433.3
+Retail Outlet Sales of Medical Products,4,2016,445.6
+Retail Outlet Sales of Medical Products,4,2017,451.9
+Prescription Drugs,5,1960,2.7
+Prescription Drugs,5,1970,5.5
+Prescription Drugs,5,1980,12
+Prescription Drugs,5,1990,40.3
+Prescription Drugs,5,2000,121
+Prescription Drugs,5,2001,139
+Prescription Drugs,5,2002,157.9
+Prescription Drugs,5,2003,176.7
+Prescription Drugs,5,2004,192.8
+Prescription Drugs,5,2005,205.2
+Prescription Drugs,5,2006,224.1
+Prescription Drugs,5,2007,235.7
+Prescription Drugs,5,2008,241.5
+Prescription Drugs,5,2009,252.7
+Prescription Drugs,5,2010,253.1
+Prescription Drugs,5,2011,258.8
+Prescription Drugs,5,2012,259.2
+Prescription Drugs,5,2013,265.2
+Prescription Drugs,5,2014,297.9
+Prescription Drugs,5,2015,324.5
+Prescription Drugs,5,2016,332
+Prescription Drugs,5,2017,333.4
+Durable Medical Equipment,5,1960,0.7
+Durable Medical Equipment,5,1970,1.7
+Durable Medical Equipment,5,1980,4.1
+Durable Medical Equipment,5,1990,13.8
+Durable Medical Equipment,5,2000,25.2
+Durable Medical Equipment,5,2001,25.1
+Durable Medical Equipment,5,2002,27.1
+Durable Medical Equipment,5,2003,28.5
+Durable Medical Equipment,5,2004,30.4
+Durable Medical Equipment,5,2005,32.4
+Durable Medical Equipment,5,2006,34.4
+Durable Medical Equipment,5,2007,37.1
+Durable Medical Equipment,5,2008,37.7
+Durable Medical Equipment,5,2009,37.8
+Durable Medical Equipment,5,2010,39.9
+Durable Medical Equipment,5,2011,42.3
+Durable Medical Equipment,5,2012,43.7
+Durable Medical Equipment,5,2013,45.1
+Durable Medical Equipment,5,2014,46.7
+Durable Medical Equipment,5,2015,48.6
+Durable Medical Equipment,5,2016,51
+Durable Medical Equipment,5,2017,54.4
+Other Non-Durable Medical Products,5,1960,1.6
+Other Non-Durable Medical Products,5,1970,3.3
+Other Non-Durable Medical Products,5,1980,9.8
+Other Non-Durable Medical Products,5,1990,22.4
+Other Non-Durable Medical Products,5,2000,31.6
+Other Non-Durable Medical Products,5,2001,32.2
+Other Non-Durable Medical Products,5,2002,33.3
+Other Non-Durable Medical Products,5,2003,36.2
+Other Non-Durable Medical Products,5,2004,38.1
+Other Non-Durable Medical Products,5,2005,40.8
+Other Non-Durable Medical Products,5,2006,43.7
+Other Non-Durable Medical Products,5,2007,47.8
+Other Non-Durable Medical Products,5,2008,49.5
+Other Non-Durable Medical Products,5,2009,50.4
+Other Non-Durable Medical Products,5,2010,51.3
+Other Non-Durable Medical Products,5,2011,52.9
+Other Non-Durable Medical Products,5,2012,53.9
+Other Non-Durable Medical Products,5,2013,56
+Other Non-Durable Medical Products,5,2014,57.5
+Other Non-Durable Medical Products,5,2015,60.2
+Other Non-Durable Medical Products,5,2016,62.7
+Other Non-Durable Medical Products,5,2017,64.1
+Government Administration,3,1960,0.1
+Government Administration,3,1970,0.7
+Government Administration,3,1980,2.8
+Government Administration,3,1990,7.2
+Government Administration,3,2000,17.1
+Government Administration,3,2001,19.6
+Government Administration,3,2002,22.6
+Government Administration,3,2003,25.1
+Government Administration,3,2004,27.1
+Government Administration,3,2005,28.2
+Government Administration,3,2006,28.8
+Government Administration,3,2007,29.2
+Government Administration,3,2008,29.3
+Government Administration,3,2009,29.6
+Government Administration,3,2010,30.2
+Government Administration,3,2011,32.9
+Government Administration,3,2012,34.2
+Government Administration,3,2013,37.4
+Government Administration,3,2014,42.1
+Government Administration,3,2015,42.7
+Government Administration,3,2016,44.7
+Government Administration,3,2017,45
+Net Cost of Health Insurance,3,1960,1
+Net Cost of Health Insurance,3,1970,1.9
+Net Cost of Health Insurance,3,1980,9.3
+Net Cost of Health Insurance,3,1990,31.6
+Net Cost of Health Insurance,3,2000,64.2
+Net Cost of Health Insurance,3,2001,71
+Net Cost of Health Insurance,3,2002,90
+Net Cost of Health Insurance,3,2003,107.3
+Net Cost of Health Insurance,3,2004,114.9
+Net Cost of Health Insurance,3,2005,122.9
+Net Cost of Health Insurance,3,2006,137.2
+Net Cost of Health Insurance,3,2007,143.4
+Net Cost of Health Insurance,3,2008,139.7
+Net Cost of Health Insurance,3,2009,138.2
+Net Cost of Health Insurance,3,2010,154
+Net Cost of Health Insurance,3,2011,159.8
+Net Cost of Health Insurance,3,2012,166.1
+Net Cost of Health Insurance,3,2013,174.2
+Net Cost of Health Insurance,3,2014,196
+Net Cost of Health Insurance,3,2015,207.7
+Net Cost of Health Insurance,3,2016,220.7
+Net Cost of Health Insurance,3,2017,229.5
+Government Public Health Activities,3,1960,0.4
+Government Public Health Activities,3,1970,1.4
+Government Public Health Activities,3,1980,6.4
+Government Public Health Activities,3,1990,20
+Government Public Health Activities,3,2000,43
+Government Public Health Activities,3,2001,46.8
+Government Public Health Activities,3,2002,52.2
+Government Public Health Activities,3,2003,54.2
+Government Public Health Activities,3,2004,54.9
+Government Public Health Activities,3,2005,57.3
+Government Public Health Activities,3,2006,60.9
+Government Public Health Activities,3,2007,66
+Government Public Health Activities,3,2008,71.6
+Government Public Health Activities,3,2009,74.2
+Government Public Health Activities,3,2010,75.7
+Government Public Health Activities,3,2011,74.4
+Government Public Health Activities,3,2012,77.2
+Government Public Health Activities,3,2013,79.1
+Government Public Health Activities,3,2014,81.4
+Government Public Health Activities,3,2015,83.3
+Government Public Health Activities,3,2016,85.6
+Government Public Health Activities,3,2017,88.9
+Investment,2,1960,2.5
+Investment,2,1970,7.5
+Investment,2,1980,19.9
+Investment,2,1990,47.3
+Investment,2,2000,83.3
+Investment,2,2001,87.4
+Investment,2,2002,96.8
+Investment,2,2003,103.7
+Investment,2,2004,111.4
+Investment,2,2005,119.7
+Investment,2,2006,125.2
+Investment,2,2007,138.4
+Investment,2,2008,148
+Investment,2,2009,138.9
+Investment,2,2010,142.7
+Investment,2,2011,149.4
+Investment,2,2012,153.2
+Investment,2,2013,153.2
+Investment,2,2014,149.9
+Investment,2,2015,154.4
+Investment,2,2016,158.2
+Investment,2,2017,167.6
+Research,3,1960,0.7
+Research,3,1970,2
+Research,3,1980,5.4
+Research,3,1990,12.7
+Research,3,2000,25.5
+Research,3,2001,28.5
+Research,3,2002,32
+Research,3,2003,34.8
+Research,3,2004,38.6
+Research,3,2005,40.3
+Research,3,2006,41.2
+Research,3,2007,42.6
+Research,3,2008,44.3
+Research,3,2009,45.3
+Research,3,2010,49.1
+Research,3,2011,49.6
+Research,3,2012,48.4
+Research,3,2013,46.7
+Research,3,2014,46
+Research,3,2015,46.5
+Research,3,2016,47.6
+Research,3,2017,50.7
+Structures and Equipment,3,1960,1.8
+Structures and Equipment,3,1970,5.6
+Structures and Equipment,3,1980,14.4
+Structures and Equipment,3,1990,34.6
+Structures and Equipment,3,2000,57.8
+Structures and Equipment,3,2001,58.9
+Structures and Equipment,3,2002,64.8
+Structures and Equipment,3,2003,68.9
+Structures and Equipment,3,2004,72.8
+Structures and Equipment,3,2005,79.4
+Structures and Equipment,3,2006,84
+Structures and Equipment,3,2007,95.8
+Structures and Equipment,3,2008,103.7
+Structures and Equipment,3,2009,93.6
+Structures and Equipment,3,2010,93.5
+Structures and Equipment,3,2011,99.8
+Structures and Equipment,3,2012,104.8
+Structures and Equipment,3,2013,106.5
+Structures and Equipment,3,2014,103.8
+Structures and Equipment,3,2015,107.9
+Structures and Equipment,3,2016,110.6
+Structures and Equipment,3,2017,116.9
