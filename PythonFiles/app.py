@@ -12,16 +12,13 @@ from flask import Flask
 from flask_cors import CORS
 import os
 
-df_TypeBD = pd.read_csv('Table02_NationalHealthExpendituresByType_BillionDollars.csv')
-#df_wages = pd.read_csv('nyt_255_wages.csv')
+df_TypeBD = pd.read_csv('Table02_NationalHealthExpendituresByType_BillionDollars_Normalized.csv')
 
 series = {
-    'absolute_wages': {},
-    'absolute_jobs': {},
-    'relative_job': {},
-    'relative_wages': {},
-    'meta': {},
-    'job_growth': {}
+    'Type': {},
+    'Level': {},
+    'Year': {},
+    'Cost': {},
 }
 for i in range(len(df_jobs)):
     jobs_meta = df_jobs.iloc[i, 0:11]
