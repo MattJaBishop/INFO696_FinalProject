@@ -1,0 +1,133 @@
+Type,Level,Year,Cost
+Hospital Care,4,1960,9
+Hospital Care,4,1970,27.2
+Hospital Care,4,1980,100.5
+Hospital Care,4,1990,250.4
+Hospital Care,4,2000,415.5
+Hospital Care,4,2001,449.4
+Hospital Care,4,2002,486.5
+Hospital Care,4,2003,525.9
+Hospital Care,4,2004,565.3
+Hospital Care,4,2005,608.6
+Hospital Care,4,2006,651.2
+Hospital Care,4,2007,691.9
+Hospital Care,4,2008,725.6
+Hospital Care,4,2009,779.6
+Hospital Care,4,2010,822.3
+Hospital Care,4,2011,851.9
+Hospital Care,4,2012,902.5
+Hospital Care,4,2013,937.6
+Hospital Care,4,2014,978.2
+Hospital Care,4,2015,1034.5
+Hospital Care,4,2016,1092.8
+Hospital Care,4,2017,1142.6
+Professional Services,4,1960,7.9
+Professional Services,4,1970,19.8
+Professional Services,4,1980,64.5
+Professional Services,4,1990,207.3
+Professional Services,4,2000,387
+Professional Services,4,2001,420.7
+Professional Services,4,2002,454.6
+Professional Services,4,2003,487.1
+Professional Services,4,2004,521.8
+Professional Services,4,2005,553
+Professional Services,4,2006,581.8
+Professional Services,4,2007,615.3
+Professional Services,4,2008,649.1
+Professional Services,4,2009,667.8
+Professional Services,4,2010,688.3
+Professional Services,4,2011,716.6
+Professional Services,4,2012,743.2
+Professional Services,4,2013,759.4
+Professional Services,4,2014,792.5
+Professional Services,4,2015,838
+Professional Services,4,2016,884
+Professional Services,4,2017,920
+"Other Health, Residential, and Personal Care",4,1960,0.4
+"Other Health, Residential, and Personal Care",4,1970,1.3
+"Other Health, Residential, and Personal Care",4,1980,8.4
+"Other Health, Residential, and Personal Care",4,1990,23.8
+"Other Health, Residential, and Personal Care",4,2000,63.9
+"Other Health, Residential, and Personal Care",4,2001,70
+"Other Health, Residential, and Personal Care",4,2002,76.7
+"Other Health, Residential, and Personal Care",4,2003,82.5
+"Other Health, Residential, and Personal Care",4,2004,89.3
+"Other Health, Residential, and Personal Care",4,2005,95
+"Other Health, Residential, and Personal Care",4,2006,101.1
+"Other Health, Residential, and Personal Care",4,2007,108.3
+"Other Health, Residential, and Personal Care",4,2008,114.5
+"Other Health, Residential, and Personal Care",4,2009,123.4
+"Other Health, Residential, and Personal Care",4,2010,129.1
+"Other Health, Residential, and Personal Care",4,2011,131.7
+"Other Health, Residential, and Personal Care",4,2012,139.1
+"Other Health, Residential, and Personal Care",4,2013,144.3
+"Other Health, Residential, and Personal Care",4,2014,151.5
+"Other Health, Residential, and Personal Care",4,2015,164.7
+"Other Health, Residential, and Personal Care",4,2016,173.4
+"Other Health, Residential, and Personal Care",4,2017,183.1
+Home Health Care,4,1960,0.1
+Home Health Care,4,1970,0.2
+Home Health Care,4,1980,2.4
+Home Health Care,4,1990,12.5
+Home Health Care,4,2000,32.3
+Home Health Care,4,2001,34.3
+Home Health Care,4,2002,36.5
+Home Health Care,4,2003,40.2
+Home Health Care,4,2004,44.6
+Home Health Care,4,2005,49.3
+Home Health Care,4,2006,52.1
+Home Health Care,4,2007,57.5
+Home Health Care,4,2008,62.3
+Home Health Care,4,2009,67.7
+Home Health Care,4,2010,71.6
+Home Health Care,4,2011,74.6
+Home Health Care,4,2012,78.3
+Home Health Care,4,2013,81.4
+Home Health Care,4,2014,84.8
+Home Health Care,4,2015,89.2
+Home Health Care,4,2016,93.1
+Home Health Care,4,2017,97
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1960,0.8
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1970,4
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1980,15.3
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1990,44.7
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2000,85
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2001,90.8
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2002,94.5
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2003,100.1
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2004,105.1
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2005,111.4
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2006,115.9
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2007,124.9
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2008,130.5
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2009,135.2
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2010,140.5
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2011,145.4
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2012,147.4
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2013,149
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2014,152.4
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2015,158.1
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2016,163
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2017,166.3
+Retail Outlet Sales of Medical Products,4,1960,5
+Retail Outlet Sales of Medical Products,4,1970,10.6
+Retail Outlet Sales of Medical Products,4,1980,25.9
+Retail Outlet Sales of Medical Products,4,1990,76.5
+Retail Outlet Sales of Medical Products,4,2000,177.8
+Retail Outlet Sales of Medical Products,4,2001,196.4
+Retail Outlet Sales of Medical Products,4,2002,218.3
+Retail Outlet Sales of Medical Products,4,2003,241.4
+Retail Outlet Sales of Medical Products,4,2004,261.3
+Retail Outlet Sales of Medical Products,4,2005,278.3
+Retail Outlet Sales of Medical Products,4,2006,302.3
+Retail Outlet Sales of Medical Products,4,2007,320.5
+Retail Outlet Sales of Medical Products,4,2008,328.6
+Retail Outlet Sales of Medical Products,4,2009,340.9
+Retail Outlet Sales of Medical Products,4,2010,344.3
+Retail Outlet Sales of Medical Products,4,2011,353.9
+Retail Outlet Sales of Medical Products,4,2012,356.8
+Retail Outlet Sales of Medical Products,4,2013,366.3
+Retail Outlet Sales of Medical Products,4,2014,402.1
+Retail Outlet Sales of Medical Products,4,2015,433.3
+Retail Outlet Sales of Medical Products,4,2016,445.6
+Retail Outlet Sales of Medical Products,4,2017,451.9

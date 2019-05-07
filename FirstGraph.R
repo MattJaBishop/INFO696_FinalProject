@@ -1,6 +1,6 @@
 library(ggplot2)
 
-#Create graph in ggplot3
+#Create graph in ggplot2
 
 static_plot <- ggplot(data = Table02_NationalHealthExpendituresByType_BillionDollars_NormalizedLevel2) +
   aes(x = Year, y = Cost, color = Type) +
