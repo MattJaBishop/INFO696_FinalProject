@@ -1,0 +1,193 @@
+Type,Level,Year,Cost,Time
+Personal Health Care,3,1960,23.3,Historical
+Personal Health Care,3,1970,63.1,Historical
+Personal Health Care,3,1980,217.0,Historical
+Personal Health Care,3,1990,615.3,Historical
+Personal Health Care,3,2000,1161.5,Historical
+Personal Health Care,3,2001,1261.4,Historical
+Personal Health Care,3,2002,1367.1,Historical
+Personal Health Care,3,2003,1477.2,Historical
+Personal Health Care,3,2004,1587.5,Historical
+Personal Health Care,3,2005,1695.7,Historical
+Personal Health Care,3,2006,1804.3,Historical
+Personal Health Care,3,2007,1918.4,Historical
+Personal Health Care,3,2008,2010.7,Historical
+Personal Health Care,3,2009,2114.6,Historical
+Personal Health Care,3,2010,2196.1,Historical
+Personal Health Care,3,2011,2274.1,Historical
+Personal Health Care,3,2012,2367.4,Historical
+Personal Health Care,3,2013,2438.0,Historical
+Personal Health Care,3,2014,2561.5,Historical
+Personal Health Care,3,2015,2717.8,Historical
+Personal Health Care,3,2016,2851.9,Historical
+Personal Health Care,3,2017,2961.0,Historical
+Government Administration,3,1960,0.1,Historical
+Government Administration,3,1970,0.7,Historical
+Government Administration,3,1980,2.8,Historical
+Government Administration,3,1990,7.2,Historical
+Government Administration,3,2000,17.1,Historical
+Government Administration,3,2001,19.6,Historical
+Government Administration,3,2002,22.6,Historical
+Government Administration,3,2003,25.1,Historical
+Government Administration,3,2004,27.1,Historical
+Government Administration,3,2005,28.2,Historical
+Government Administration,3,2006,28.8,Historical
+Government Administration,3,2007,29.2,Historical
+Government Administration,3,2008,29.3,Historical
+Government Administration,3,2009,29.6,Historical
+Government Administration,3,2010,30.2,Historical
+Government Administration,3,2011,32.9,Historical
+Government Administration,3,2012,34.2,Historical
+Government Administration,3,2013,37.4,Historical
+Government Administration,3,2014,42.1,Historical
+Government Administration,3,2015,42.7,Historical
+Government Administration,3,2016,44.7,Historical
+Government Administration,3,2017,45.0,Historical
+Net Cost of Health Insurance,3,1960,1.0,Historical
+Net Cost of Health Insurance,3,1970,1.9,Historical
+Net Cost of Health Insurance,3,1980,9.3,Historical
+Net Cost of Health Insurance,3,1990,31.6,Historical
+Net Cost of Health Insurance,3,2000,64.2,Historical
+Net Cost of Health Insurance,3,2001,71.0,Historical
+Net Cost of Health Insurance,3,2002,90.0,Historical
+Net Cost of Health Insurance,3,2003,107.3,Historical
+Net Cost of Health Insurance,3,2004,114.9,Historical
+Net Cost of Health Insurance,3,2005,122.9,Historical
+Net Cost of Health Insurance,3,2006,137.2,Historical
+Net Cost of Health Insurance,3,2007,143.4,Historical
+Net Cost of Health Insurance,3,2008,139.7,Historical
+Net Cost of Health Insurance,3,2009,138.2,Historical
+Net Cost of Health Insurance,3,2010,154.0,Historical
+Net Cost of Health Insurance,3,2011,159.8,Historical
+Net Cost of Health Insurance,3,2012,166.1,Historical
+Net Cost of Health Insurance,3,2013,174.2,Historical
+Net Cost of Health Insurance,3,2014,196.0,Historical
+Net Cost of Health Insurance,3,2015,207.7,Historical
+Net Cost of Health Insurance,3,2016,220.7,Historical
+Net Cost of Health Insurance,3,2017,229.5,Historical
+Government Public Health Activities,3,1960,0.4,Historical
+Government Public Health Activities,3,1970,1.4,Historical
+Government Public Health Activities,3,1980,6.4,Historical
+Government Public Health Activities,3,1990,20.0,Historical
+Government Public Health Activities,3,2000,43.0,Historical
+Government Public Health Activities,3,2001,46.8,Historical
+Government Public Health Activities,3,2002,52.2,Historical
+Government Public Health Activities,3,2003,54.2,Historical
+Government Public Health Activities,3,2004,54.9,Historical
+Government Public Health Activities,3,2005,57.3,Historical
+Government Public Health Activities,3,2006,60.9,Historical
+Government Public Health Activities,3,2007,66.0,Historical
+Government Public Health Activities,3,2008,71.6,Historical
+Government Public Health Activities,3,2009,74.2,Historical
+Government Public Health Activities,3,2010,75.7,Historical
+Government Public Health Activities,3,2011,74.4,Historical
+Government Public Health Activities,3,2012,77.2,Historical
+Government Public Health Activities,3,2013,79.1,Historical
+Government Public Health Activities,3,2014,81.4,Historical
+Government Public Health Activities,3,2015,83.3,Historical
+Government Public Health Activities,3,2016,85.6,Historical
+Government Public Health Activities,3,2017,88.9,Historical
+Research,3,1960,0.7,Historical
+Research,3,1970,2.0,Historical
+Research,3,1980,5.4,Historical
+Research,3,1990,12.7,Historical
+Research,3,2000,25.5,Historical
+Research,3,2001,28.5,Historical
+Research,3,2002,32.0,Historical
+Research,3,2003,34.8,Historical
+Research,3,2004,38.6,Historical
+Research,3,2005,40.3,Historical
+Research,3,2006,41.2,Historical
+Research,3,2007,42.6,Historical
+Research,3,2008,44.3,Historical
+Research,3,2009,45.3,Historical
+Research,3,2010,49.1,Historical
+Research,3,2011,49.6,Historical
+Research,3,2012,48.4,Historical
+Research,3,2013,46.7,Historical
+Research,3,2014,46.0,Historical
+Research,3,2015,46.5,Historical
+Research,3,2016,47.6,Historical
+Research,3,2017,50.7,Historical
+Structures and Equipment,3,1960,1.8,Historical
+Structures and Equipment,3,1970,5.6,Historical
+Structures and Equipment,3,1980,14.4,Historical
+Structures and Equipment,3,1990,34.6,Historical
+Structures and Equipment,3,2000,57.8,Historical
+Structures and Equipment,3,2001,58.9,Historical
+Structures and Equipment,3,2002,64.8,Historical
+Structures and Equipment,3,2003,68.9,Historical
+Structures and Equipment,3,2004,72.8,Historical
+Structures and Equipment,3,2005,79.4,Historical
+Structures and Equipment,3,2006,84.0,Historical
+Structures and Equipment,3,2007,95.8,Historical
+Structures and Equipment,3,2008,103.7,Historical
+Structures and Equipment,3,2009,93.6,Historical
+Structures and Equipment,3,2010,93.5,Historical
+Structures and Equipment,3,2011,99.8,Historical
+Structures and Equipment,3,2012,104.8,Historical
+Structures and Equipment,3,2013,106.5,Historical
+Structures and Equipment,3,2014,103.8,Historical
+Structures and Equipment,3,2015,107.9,Historical
+Structures and Equipment,3,2016,110.6,Historical
+Structures and Equipment,3,2017,116.9,Historical
+Personal Health Care,3,2018,3085.3,Projection
+Personal Health Care,3,2019,3242.5,Projection
+Personal Health Care,3,2020,3412.6,Projection
+Personal Health Care,3,2021,3601.5,Projection
+Personal Health Care,3,2022,3811.1,Projection
+Personal Health Care,3,2023,4037.8,Projection
+Personal Health Care,3,2024,4278.2,Projection
+Personal Health Care,3,2025,4531.0,Projection
+Personal Health Care,3,2026,4792.7,Projection
+Personal Health Care,3,2027,5058.4,Projection
+Government Administration,3,2018,46.7,Projection
+Government Administration,3,2019,49.4,Projection
+Government Administration,3,2020,52.0,Projection
+Government Administration,3,2021,54.9,Projection
+Government Administration,3,2022,58.5,Projection
+Government Administration,3,2023,62.5,Projection
+Government Administration,3,2024,66.6,Projection
+Government Administration,3,2025,70.9,Projection
+Government Administration,3,2026,75.8,Projection
+Government Administration,3,2027,81.0,Projection
+Net Cost of Health Insurance,3,2018,247.2,Projection
+Net Cost of Health Insurance,3,2019,252.0,Projection
+Net Cost of Health Insurance,3,2020,275.2,Projection
+Net Cost of Health Insurance,3,2021,294.0,Projection
+Net Cost of Health Insurance,3,2022,312.3,Projection
+Net Cost of Health Insurance,3,2023,331.7,Projection
+Net Cost of Health Insurance,3,2024,352.4,Projection
+Net Cost of Health Insurance,3,2025,373.8,Projection
+Net Cost of Health Insurance,3,2026,394.8,Projection
+Net Cost of Health Insurance,3,2027,417.3,Projection
+Government Public Health Activities,3,2018,91.1,Projection
+Government Public Health Activities,3,2019,93.6,Projection
+Government Public Health Activities,3,2020,96.2,Projection
+Government Public Health Activities,3,2021,99.1,Projection
+Government Public Health Activities,3,2022,102.8,Projection
+Government Public Health Activities,3,2023,106.5,Projection
+Government Public Health Activities,3,2024,110.4,Projection
+Government Public Health Activities,3,2025,114.7,Projection
+Government Public Health Activities,3,2026,119.2,Projection
+Government Public Health Activities,3,2027,123.2,Projection
+Research,3,2018,53.5,Projection
+Research,3,2019,56.2,Projection
+Research,3,2020,59.0,Projection
+Research,3,2021,62.0,Projection
+Research,3,2022,65.2,Projection
+Research,3,2023,68.4,Projection
+Research,3,2024,71.8,Projection
+Research,3,2025,75.3,Projection
+Research,3,2026,79.0,Projection
+Research,3,2027,83.3,Projection
+Structures and Equipment,3,2018,123.1,Projection
+Structures and Equipment,3,2019,129.3,Projection
+Structures and Equipment,3,2020,136.1,Projection
+Structures and Equipment,3,2021,143.6,Projection
+Structures and Equipment,3,2022,151.7,Projection
+Structures and Equipment,3,2023,160.2,Projection
+Structures and Equipment,3,2024,169.3,Projection
+Structures and Equipment,3,2025,179.0,Projection
+Structures and Equipment,3,2026,189.2,Projection
+Structures and Equipment,3,2027,200.0,Projection

@@ -1,0 +1,673 @@
+Type,Level,Year,Cost,Time
+National Health Expenditures,1,1960,27.2,Historical
+National Health Expenditures,1,1970,74.6,Historical
+National Health Expenditures,1,1980,255.3,Historical
+National Health Expenditures,1,1990,721.4,Historical
+National Health Expenditures,1,2000,1369.2,Historical
+National Health Expenditures,1,2001,1486.2,Historical
+National Health Expenditures,1,2002,1628.7,Historical
+National Health Expenditures,1,2003,1767.6,Historical
+National Health Expenditures,1,2004,1895.8,Historical
+National Health Expenditures,1,2005,2023.8,Historical
+National Health Expenditures,1,2006,2156.3,Historical
+National Health Expenditures,1,2007,2295.4,Historical
+National Health Expenditures,1,2008,2399.3,Historical
+National Health Expenditures,1,2009,2495.6,Historical
+National Health Expenditures,1,2010,2598.6,Historical
+National Health Expenditures,1,2011,2690.6,Historical
+National Health Expenditures,1,2012,2798.0,Historical
+National Health Expenditures,1,2013,2881.8,Historical
+National Health Expenditures,1,2014,3030.9,Historical
+National Health Expenditures,1,2015,3205.9,Historical
+National Health Expenditures,1,2016,3361.1,Historical
+National Health Expenditures,1,2017,3492.1,Historical
+Health Consumption Expenditures,2,1960,24.7,Historical
+Health Consumption Expenditures,2,1970,67.0,Historical
+Health Consumption Expenditures,2,1980,235.5,Historical
+Health Consumption Expenditures,2,1990,674.1,Historical
+Health Consumption Expenditures,2,2000,1285.9,Historical
+Health Consumption Expenditures,2,2001,1398.8,Historical
+Health Consumption Expenditures,2,2002,1531.9,Historical
+Health Consumption Expenditures,2,2003,1663.9,Historical
+Health Consumption Expenditures,2,2004,1784.4,Historical
+Health Consumption Expenditures,2,2005,1904.1,Historical
+Health Consumption Expenditures,2,2006,2031.1,Historical
+Health Consumption Expenditures,2,2007,2157.0,Historical
+Health Consumption Expenditures,2,2008,2251.3,Historical
+Health Consumption Expenditures,2,2009,2356.6,Historical
+Health Consumption Expenditures,2,2010,2455.9,Historical
+Health Consumption Expenditures,2,2011,2541.3,Historical
+Health Consumption Expenditures,2,2012,2644.9,Historical
+Health Consumption Expenditures,2,2013,2728.6,Historical
+Health Consumption Expenditures,2,2014,2881.1,Historical
+Health Consumption Expenditures,2,2015,3051.5,Historical
+Health Consumption Expenditures,2,2016,3202.9,Historical
+Health Consumption Expenditures,2,2017,3324.5,Historical
+Personal Health Care,3,1960,23.3,Historical
+Personal Health Care,3,1970,63.1,Historical
+Personal Health Care,3,1980,217.0,Historical
+Personal Health Care,3,1990,615.3,Historical
+Personal Health Care,3,2000,1161.5,Historical
+Personal Health Care,3,2001,1261.4,Historical
+Personal Health Care,3,2002,1367.1,Historical
+Personal Health Care,3,2003,1477.2,Historical
+Personal Health Care,3,2004,1587.5,Historical
+Personal Health Care,3,2005,1695.7,Historical
+Personal Health Care,3,2006,1804.3,Historical
+Personal Health Care,3,2007,1918.4,Historical
+Personal Health Care,3,2008,2010.7,Historical
+Personal Health Care,3,2009,2114.6,Historical
+Personal Health Care,3,2010,2196.1,Historical
+Personal Health Care,3,2011,2274.1,Historical
+Personal Health Care,3,2012,2367.4,Historical
+Personal Health Care,3,2013,2438.0,Historical
+Personal Health Care,3,2014,2561.5,Historical
+Personal Health Care,3,2015,2717.8,Historical
+Personal Health Care,3,2016,2851.9,Historical
+Personal Health Care,3,2017,2961.0,Historical
+Hospital Care,4,1960,9.0,Historical
+Hospital Care,4,1970,27.2,Historical
+Hospital Care,4,1980,100.5,Historical
+Hospital Care,4,1990,250.4,Historical
+Hospital Care,4,2000,415.5,Historical
+Hospital Care,4,2001,449.4,Historical
+Hospital Care,4,2002,486.5,Historical
+Hospital Care,4,2003,525.9,Historical
+Hospital Care,4,2004,565.3,Historical
+Hospital Care,4,2005,608.6,Historical
+Hospital Care,4,2006,651.2,Historical
+Hospital Care,4,2007,691.9,Historical
+Hospital Care,4,2008,725.6,Historical
+Hospital Care,4,2009,779.6,Historical
+Hospital Care,4,2010,822.3,Historical
+Hospital Care,4,2011,851.9,Historical
+Hospital Care,4,2012,902.5,Historical
+Hospital Care,4,2013,937.6,Historical
+Hospital Care,4,2014,978.2,Historical
+Hospital Care,4,2015,1034.5,Historical
+Hospital Care,4,2016,1092.8,Historical
+Hospital Care,4,2017,1142.6,Historical
+Professional Services,4,1960,7.9,Historical
+Professional Services,4,1970,19.8,Historical
+Professional Services,4,1980,64.5,Historical
+Professional Services,4,1990,207.3,Historical
+Professional Services,4,2000,387.0,Historical
+Professional Services,4,2001,420.7,Historical
+Professional Services,4,2002,454.6,Historical
+Professional Services,4,2003,487.1,Historical
+Professional Services,4,2004,521.8,Historical
+Professional Services,4,2005,553.0,Historical
+Professional Services,4,2006,581.8,Historical
+Professional Services,4,2007,615.3,Historical
+Professional Services,4,2008,649.1,Historical
+Professional Services,4,2009,667.8,Historical
+Professional Services,4,2010,688.3,Historical
+Professional Services,4,2011,716.6,Historical
+Professional Services,4,2012,743.2,Historical
+Professional Services,4,2013,759.4,Historical
+Professional Services,4,2014,792.5,Historical
+Professional Services,4,2015,838.0,Historical
+Professional Services,4,2016,884.0,Historical
+Professional Services,4,2017,920.0,Historical
+Physician and Clinical Services,5,1960,5.6,Historical
+Physician and Clinical Services,5,1970,14.3,Historical
+Physician and Clinical Services,5,1980,47.7,Historical
+Physician and Clinical Services,5,1990,158.4,Historical
+Physician and Clinical Services,5,2000,288.2,Historical
+Physician and Clinical Services,5,2001,312.7,Historical
+Physician and Clinical Services,5,2002,337.7,Historical
+Physician and Clinical Services,5,2003,364.3,Historical
+Physician and Clinical Services,5,2004,389.4,Historical
+Physician and Clinical Services,5,2005,413.0,Historical
+Physician and Clinical Services,5,2006,434.7,Historical
+Physician and Clinical Services,5,2007,457.5,Historical
+Physician and Clinical Services,5,2008,481.9,Historical
+Physician and Clinical Services,5,2009,497.7,Historical
+Physician and Clinical Services,5,2010,512.6,Historical
+Physician and Clinical Services,5,2011,535.9,Historical
+Physician and Clinical Services,5,2012,557.1,Historical
+Physician and Clinical Services,5,2013,569.6,Historical
+Physician and Clinical Services,5,2014,595.7,Historical
+Physician and Clinical Services,5,2015,631.2,Historical
+Physician and Clinical Services,5,2016,666.5,Historical
+Physician and Clinical Services,5,2017,694.3,Historical
+Other Professional Services,5,1960,0.4,Historical
+Other Professional Services,5,1970,0.7,Historical
+Other Professional Services,5,1980,3.5,Historical
+Other Professional Services,5,1990,17.3,Historical
+Other Professional Services,5,2000,36.6,Historical
+Other Professional Services,5,2001,40.3,Historical
+Other Professional Services,5,2002,43.3,Historical
+Other Professional Services,5,2003,46.5,Historical
+Other Professional Services,5,2004,50.2,Historical
+Other Professional Services,5,2005,52.8,Historical
+Other Professional Services,5,2006,55.3,Historical
+Other Professional Services,5,2007,60.1,Historical
+Other Professional Services,5,2008,64.5,Historical
+Other Professional Services,5,2009,67.0,Historical
+Other Professional Services,5,2010,69.9,Historical
+Other Professional Services,5,2011,72.8,Historical
+Other Professional Services,5,2012,76.4,Historical
+Other Professional Services,5,2013,78.7,Historical
+Other Professional Services,5,2014,83.0,Historical
+Other Professional Services,5,2015,87.8,Historical
+Other Professional Services,5,2016,92.4,Historical
+Other Professional Services,5,2017,96.6,Historical
+Dental Services,5,1960,2.0,Historical
+Dental Services,5,1970,4.7,Historical
+Dental Services,5,1980,13.3,Historical
+Dental Services,5,1990,31.6,Historical
+Dental Services,5,2000,62.1,Historical
+Dental Services,5,2001,67.7,Historical
+Dental Services,5,2002,73.6,Historical
+Dental Services,5,2003,76.3,Historical
+Dental Services,5,2004,82.2,Historical
+Dental Services,5,2005,87.2,Historical
+Dental Services,5,2006,91.8,Historical
+Dental Services,5,2007,97.7,Historical
+Dental Services,5,2008,102.7,Historical
+Dental Services,5,2009,103.1,Historical
+Dental Services,5,2010,105.9,Historical
+Dental Services,5,2011,108.0,Historical
+Dental Services,5,2012,109.7,Historical
+Dental Services,5,2013,111.1,Historical
+Dental Services,5,2014,113.8,Historical
+Dental Services,5,2015,118.9,Historical
+Dental Services,5,2016,125.1,Historical
+Dental Services,5,2017,129.1,Historical
+"Other Health, Residential, and Personal Care",4,1960,0.4,Historical
+"Other Health, Residential, and Personal Care",4,1970,1.3,Historical
+"Other Health, Residential, and Personal Care",4,1980,8.4,Historical
+"Other Health, Residential, and Personal Care",4,1990,23.8,Historical
+"Other Health, Residential, and Personal Care",4,2000,63.9,Historical
+"Other Health, Residential, and Personal Care",4,2001,70.0,Historical
+"Other Health, Residential, and Personal Care",4,2002,76.7,Historical
+"Other Health, Residential, and Personal Care",4,2003,82.5,Historical
+"Other Health, Residential, and Personal Care",4,2004,89.3,Historical
+"Other Health, Residential, and Personal Care",4,2005,95.0,Historical
+"Other Health, Residential, and Personal Care",4,2006,101.1,Historical
+"Other Health, Residential, and Personal Care",4,2007,108.3,Historical
+"Other Health, Residential, and Personal Care",4,2008,114.5,Historical
+"Other Health, Residential, and Personal Care",4,2009,123.4,Historical
+"Other Health, Residential, and Personal Care",4,2010,129.1,Historical
+"Other Health, Residential, and Personal Care",4,2011,131.7,Historical
+"Other Health, Residential, and Personal Care",4,2012,139.1,Historical
+"Other Health, Residential, and Personal Care",4,2013,144.3,Historical
+"Other Health, Residential, and Personal Care",4,2014,151.5,Historical
+"Other Health, Residential, and Personal Care",4,2015,164.7,Historical
+"Other Health, Residential, and Personal Care",4,2016,173.4,Historical
+"Other Health, Residential, and Personal Care",4,2017,183.1,Historical
+Home Health Care,4,1960,0.1,Historical
+Home Health Care,4,1970,0.2,Historical
+Home Health Care,4,1980,2.4,Historical
+Home Health Care,4,1990,12.5,Historical
+Home Health Care,4,2000,32.3,Historical
+Home Health Care,4,2001,34.3,Historical
+Home Health Care,4,2002,36.5,Historical
+Home Health Care,4,2003,40.2,Historical
+Home Health Care,4,2004,44.6,Historical
+Home Health Care,4,2005,49.3,Historical
+Home Health Care,4,2006,52.1,Historical
+Home Health Care,4,2007,57.5,Historical
+Home Health Care,4,2008,62.3,Historical
+Home Health Care,4,2009,67.7,Historical
+Home Health Care,4,2010,71.6,Historical
+Home Health Care,4,2011,74.6,Historical
+Home Health Care,4,2012,78.3,Historical
+Home Health Care,4,2013,81.4,Historical
+Home Health Care,4,2014,84.8,Historical
+Home Health Care,4,2015,89.2,Historical
+Home Health Care,4,2016,93.1,Historical
+Home Health Care,4,2017,97.0,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1960,0.8,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1970,4.0,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1980,15.3,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1990,44.7,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2000,85.0,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2001,90.8,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2002,94.5,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2003,100.1,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2004,105.1,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2005,111.4,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2006,115.9,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2007,124.9,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2008,130.5,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2009,135.2,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2010,140.5,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2011,145.4,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2012,147.4,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2013,149.0,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2014,152.4,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2015,158.1,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2016,163.0,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2017,166.3,Historical
+Retail Outlet Sales of Medical Products,4,1960,5.0,Historical
+Retail Outlet Sales of Medical Products,4,1970,10.6,Historical
+Retail Outlet Sales of Medical Products,4,1980,25.9,Historical
+Retail Outlet Sales of Medical Products,4,1990,76.5,Historical
+Retail Outlet Sales of Medical Products,4,2000,177.8,Historical
+Retail Outlet Sales of Medical Products,4,2001,196.4,Historical
+Retail Outlet Sales of Medical Products,4,2002,218.3,Historical
+Retail Outlet Sales of Medical Products,4,2003,241.4,Historical
+Retail Outlet Sales of Medical Products,4,2004,261.3,Historical
+Retail Outlet Sales of Medical Products,4,2005,278.3,Historical
+Retail Outlet Sales of Medical Products,4,2006,302.3,Historical
+Retail Outlet Sales of Medical Products,4,2007,320.5,Historical
+Retail Outlet Sales of Medical Products,4,2008,328.6,Historical
+Retail Outlet Sales of Medical Products,4,2009,340.9,Historical
+Retail Outlet Sales of Medical Products,4,2010,344.3,Historical
+Retail Outlet Sales of Medical Products,4,2011,353.9,Historical
+Retail Outlet Sales of Medical Products,4,2012,356.8,Historical
+Retail Outlet Sales of Medical Products,4,2013,366.3,Historical
+Retail Outlet Sales of Medical Products,4,2014,402.1,Historical
+Retail Outlet Sales of Medical Products,4,2015,433.3,Historical
+Retail Outlet Sales of Medical Products,4,2016,445.6,Historical
+Retail Outlet Sales of Medical Products,4,2017,451.9,Historical
+Prescription Drugs,5,1960,2.7,Historical
+Prescription Drugs,5,1970,5.5,Historical
+Prescription Drugs,5,1980,12.0,Historical
+Prescription Drugs,5,1990,40.3,Historical
+Prescription Drugs,5,2000,121.0,Historical
+Prescription Drugs,5,2001,139.0,Historical
+Prescription Drugs,5,2002,157.9,Historical
+Prescription Drugs,5,2003,176.7,Historical
+Prescription Drugs,5,2004,192.8,Historical
+Prescription Drugs,5,2005,205.2,Historical
+Prescription Drugs,5,2006,224.1,Historical
+Prescription Drugs,5,2007,235.7,Historical
+Prescription Drugs,5,2008,241.5,Historical
+Prescription Drugs,5,2009,252.7,Historical
+Prescription Drugs,5,2010,253.1,Historical
+Prescription Drugs,5,2011,258.8,Historical
+Prescription Drugs,5,2012,259.2,Historical
+Prescription Drugs,5,2013,265.2,Historical
+Prescription Drugs,5,2014,297.9,Historical
+Prescription Drugs,5,2015,324.5,Historical
+Prescription Drugs,5,2016,332.0,Historical
+Prescription Drugs,5,2017,333.4,Historical
+Durable Medical Equipment,5,1960,0.7,Historical
+Durable Medical Equipment,5,1970,1.7,Historical
+Durable Medical Equipment,5,1980,4.1,Historical
+Durable Medical Equipment,5,1990,13.8,Historical
+Durable Medical Equipment,5,2000,25.2,Historical
+Durable Medical Equipment,5,2001,25.1,Historical
+Durable Medical Equipment,5,2002,27.1,Historical
+Durable Medical Equipment,5,2003,28.5,Historical
+Durable Medical Equipment,5,2004,30.4,Historical
+Durable Medical Equipment,5,2005,32.4,Historical
+Durable Medical Equipment,5,2006,34.4,Historical
+Durable Medical Equipment,5,2007,37.1,Historical
+Durable Medical Equipment,5,2008,37.7,Historical
+Durable Medical Equipment,5,2009,37.8,Historical
+Durable Medical Equipment,5,2010,39.9,Historical
+Durable Medical Equipment,5,2011,42.3,Historical
+Durable Medical Equipment,5,2012,43.7,Historical
+Durable Medical Equipment,5,2013,45.1,Historical
+Durable Medical Equipment,5,2014,46.7,Historical
+Durable Medical Equipment,5,2015,48.6,Historical
+Durable Medical Equipment,5,2016,51.0,Historical
+Durable Medical Equipment,5,2017,54.4,Historical
+Other Non-Durable Medical Products,5,1960,1.6,Historical
+Other Non-Durable Medical Products,5,1970,3.3,Historical
+Other Non-Durable Medical Products,5,1980,9.8,Historical
+Other Non-Durable Medical Products,5,1990,22.4,Historical
+Other Non-Durable Medical Products,5,2000,31.6,Historical
+Other Non-Durable Medical Products,5,2001,32.2,Historical
+Other Non-Durable Medical Products,5,2002,33.3,Historical
+Other Non-Durable Medical Products,5,2003,36.2,Historical
+Other Non-Durable Medical Products,5,2004,38.1,Historical
+Other Non-Durable Medical Products,5,2005,40.8,Historical
+Other Non-Durable Medical Products,5,2006,43.7,Historical
+Other Non-Durable Medical Products,5,2007,47.8,Historical
+Other Non-Durable Medical Products,5,2008,49.5,Historical
+Other Non-Durable Medical Products,5,2009,50.4,Historical
+Other Non-Durable Medical Products,5,2010,51.3,Historical
+Other Non-Durable Medical Products,5,2011,52.9,Historical
+Other Non-Durable Medical Products,5,2012,53.9,Historical
+Other Non-Durable Medical Products,5,2013,56.0,Historical
+Other Non-Durable Medical Products,5,2014,57.5,Historical
+Other Non-Durable Medical Products,5,2015,60.2,Historical
+Other Non-Durable Medical Products,5,2016,62.7,Historical
+Other Non-Durable Medical Products,5,2017,64.1,Historical
+Government Administration,3,1960,0.1,Historical
+Government Administration,3,1970,0.7,Historical
+Government Administration,3,1980,2.8,Historical
+Government Administration,3,1990,7.2,Historical
+Government Administration,3,2000,17.1,Historical
+Government Administration,3,2001,19.6,Historical
+Government Administration,3,2002,22.6,Historical
+Government Administration,3,2003,25.1,Historical
+Government Administration,3,2004,27.1,Historical
+Government Administration,3,2005,28.2,Historical
+Government Administration,3,2006,28.8,Historical
+Government Administration,3,2007,29.2,Historical
+Government Administration,3,2008,29.3,Historical
+Government Administration,3,2009,29.6,Historical
+Government Administration,3,2010,30.2,Historical
+Government Administration,3,2011,32.9,Historical
+Government Administration,3,2012,34.2,Historical
+Government Administration,3,2013,37.4,Historical
+Government Administration,3,2014,42.1,Historical
+Government Administration,3,2015,42.7,Historical
+Government Administration,3,2016,44.7,Historical
+Government Administration,3,2017,45.0,Historical
+Net Cost of Health Insurance,3,1960,1.0,Historical
+Net Cost of Health Insurance,3,1970,1.9,Historical
+Net Cost of Health Insurance,3,1980,9.3,Historical
+Net Cost of Health Insurance,3,1990,31.6,Historical
+Net Cost of Health Insurance,3,2000,64.2,Historical
+Net Cost of Health Insurance,3,2001,71.0,Historical
+Net Cost of Health Insurance,3,2002,90.0,Historical
+Net Cost of Health Insurance,3,2003,107.3,Historical
+Net Cost of Health Insurance,3,2004,114.9,Historical
+Net Cost of Health Insurance,3,2005,122.9,Historical
+Net Cost of Health Insurance,3,2006,137.2,Historical
+Net Cost of Health Insurance,3,2007,143.4,Historical
+Net Cost of Health Insurance,3,2008,139.7,Historical
+Net Cost of Health Insurance,3,2009,138.2,Historical
+Net Cost of Health Insurance,3,2010,154.0,Historical
+Net Cost of Health Insurance,3,2011,159.8,Historical
+Net Cost of Health Insurance,3,2012,166.1,Historical
+Net Cost of Health Insurance,3,2013,174.2,Historical
+Net Cost of Health Insurance,3,2014,196.0,Historical
+Net Cost of Health Insurance,3,2015,207.7,Historical
+Net Cost of Health Insurance,3,2016,220.7,Historical
+Net Cost of Health Insurance,3,2017,229.5,Historical
+Government Public Health Activities,3,1960,0.4,Historical
+Government Public Health Activities,3,1970,1.4,Historical
+Government Public Health Activities,3,1980,6.4,Historical
+Government Public Health Activities,3,1990,20.0,Historical
+Government Public Health Activities,3,2000,43.0,Historical
+Government Public Health Activities,3,2001,46.8,Historical
+Government Public Health Activities,3,2002,52.2,Historical
+Government Public Health Activities,3,2003,54.2,Historical
+Government Public Health Activities,3,2004,54.9,Historical
+Government Public Health Activities,3,2005,57.3,Historical
+Government Public Health Activities,3,2006,60.9,Historical
+Government Public Health Activities,3,2007,66.0,Historical
+Government Public Health Activities,3,2008,71.6,Historical
+Government Public Health Activities,3,2009,74.2,Historical
+Government Public Health Activities,3,2010,75.7,Historical
+Government Public Health Activities,3,2011,74.4,Historical
+Government Public Health Activities,3,2012,77.2,Historical
+Government Public Health Activities,3,2013,79.1,Historical
+Government Public Health Activities,3,2014,81.4,Historical
+Government Public Health Activities,3,2015,83.3,Historical
+Government Public Health Activities,3,2016,85.6,Historical
+Government Public Health Activities,3,2017,88.9,Historical
+Investment,2,1960,2.5,Historical
+Investment,2,1970,7.5,Historical
+Investment,2,1980,19.9,Historical
+Investment,2,1990,47.3,Historical
+Investment,2,2000,83.3,Historical
+Investment,2,2001,87.4,Historical
+Investment,2,2002,96.8,Historical
+Investment,2,2003,103.7,Historical
+Investment,2,2004,111.4,Historical
+Investment,2,2005,119.7,Historical
+Investment,2,2006,125.2,Historical
+Investment,2,2007,138.4,Historical
+Investment,2,2008,148.0,Historical
+Investment,2,2009,138.9,Historical
+Investment,2,2010,142.7,Historical
+Investment,2,2011,149.4,Historical
+Investment,2,2012,153.2,Historical
+Investment,2,2013,153.2,Historical
+Investment,2,2014,149.9,Historical
+Investment,2,2015,154.4,Historical
+Investment,2,2016,158.2,Historical
+Investment,2,2017,167.6,Historical
+Research,3,1960,0.7,Historical
+Research,3,1970,2.0,Historical
+Research,3,1980,5.4,Historical
+Research,3,1990,12.7,Historical
+Research,3,2000,25.5,Historical
+Research,3,2001,28.5,Historical
+Research,3,2002,32.0,Historical
+Research,3,2003,34.8,Historical
+Research,3,2004,38.6,Historical
+Research,3,2005,40.3,Historical
+Research,3,2006,41.2,Historical
+Research,3,2007,42.6,Historical
+Research,3,2008,44.3,Historical
+Research,3,2009,45.3,Historical
+Research,3,2010,49.1,Historical
+Research,3,2011,49.6,Historical
+Research,3,2012,48.4,Historical
+Research,3,2013,46.7,Historical
+Research,3,2014,46.0,Historical
+Research,3,2015,46.5,Historical
+Research,3,2016,47.6,Historical
+Research,3,2017,50.7,Historical
+Structures and Equipment,3,1960,1.8,Historical
+Structures and Equipment,3,1970,5.6,Historical
+Structures and Equipment,3,1980,14.4,Historical
+Structures and Equipment,3,1990,34.6,Historical
+Structures and Equipment,3,2000,57.8,Historical
+Structures and Equipment,3,2001,58.9,Historical
+Structures and Equipment,3,2002,64.8,Historical
+Structures and Equipment,3,2003,68.9,Historical
+Structures and Equipment,3,2004,72.8,Historical
+Structures and Equipment,3,2005,79.4,Historical
+Structures and Equipment,3,2006,84.0,Historical
+Structures and Equipment,3,2007,95.8,Historical
+Structures and Equipment,3,2008,103.7,Historical
+Structures and Equipment,3,2009,93.6,Historical
+Structures and Equipment,3,2010,93.5,Historical
+Structures and Equipment,3,2011,99.8,Historical
+Structures and Equipment,3,2012,104.8,Historical
+Structures and Equipment,3,2013,106.5,Historical
+Structures and Equipment,3,2014,103.8,Historical
+Structures and Equipment,3,2015,107.9,Historical
+Structures and Equipment,3,2016,110.6,Historical
+Structures and Equipment,3,2017,116.9,Historical
+National Health Expenditures,1,2018,3646.9,Projection
+National Health Expenditures,1,2019,3823.1,Projection
+National Health Expenditures,1,2020,4031.1,Projection
+National Health Expenditures,1,2021,4255.2,Projection
+National Health Expenditures,1,2022,4501.5,Projection
+National Health Expenditures,1,2023,4767.1,Projection
+National Health Expenditures,1,2024,5048.7,Projection
+National Health Expenditures,1,2025,5344.8,Projection
+National Health Expenditures,1,2026,5650.8,Projection
+National Health Expenditures,1,2027,5963.2,Projection
+Health Consumption Expenditures,2,2018,3470.3,Projection
+Health Consumption Expenditures,2,2019,3637.6,Projection
+Health Consumption Expenditures,2,2020,3835.9,Projection
+Health Consumption Expenditures,2,2021,4049.6,Projection
+Health Consumption Expenditures,2,2022,4284.7,Projection
+Health Consumption Expenditures,2,2023,4538.5,Projection
+Health Consumption Expenditures,2,2024,4807.7,Projection
+Health Consumption Expenditures,2,2025,5090.4,Projection
+Health Consumption Expenditures,2,2026,5382.5,Projection
+Health Consumption Expenditures,2,2027,5679.9,Projection
+Personal Health Care,3,2018,3085.3,Projection
+Personal Health Care,3,2019,3242.5,Projection
+Personal Health Care,3,2020,3412.6,Projection
+Personal Health Care,3,2021,3601.5,Projection
+Personal Health Care,3,2022,3811.1,Projection
+Personal Health Care,3,2023,4037.8,Projection
+Personal Health Care,3,2024,4278.2,Projection
+Personal Health Care,3,2025,4531.0,Projection
+Personal Health Care,3,2026,4792.7,Projection
+Personal Health Care,3,2027,5058.4,Projection
+Hospital Care,4,2018,1193.4,Projection
+Hospital Care,4,2019,1254.7,Projection
+Hospital Care,4,2020,1318.7,Projection
+Hospital Care,4,2021,1390.1,Projection
+Hospital Care,4,2022,1471.3,Projection
+Hospital Care,4,2023,1559.3,Projection
+Hospital Care,4,2024,1652.4,Projection
+Hospital Care,4,2025,1751.6,Projection
+Hospital Care,4,2026,1858.1,Projection
+Hospital Care,4,2027,1961.6,Projection
+Professional Services,4,2018,962.8,Projection
+Professional Services,4,2019,1013.6,Projection
+Professional Services,4,2020,1067.1,Projection
+Professional Services,4,2021,1125.6,Projection
+Professional Services,4,2022,1186.9,Projection
+Professional Services,4,2023,1253.2,Projection
+Professional Services,4,2024,1324.1,Projection
+Professional Services,4,2025,1397.5,Projection
+Professional Services,4,2026,1468.2,Projection
+Professional Services,4,2027,1541.2,Projection
+Physician and Clinical Services,5,2018,728.0,Projection
+Physician and Clinical Services,5,2019,767.6,Projection
+Physician and Clinical Services,5,2020,808.8,Projection
+Physician and Clinical Services,5,2021,853.7,Projection
+Physician and Clinical Services,5,2022,900.0,Projection
+Physician and Clinical Services,5,2023,950.3,Projection
+Physician and Clinical Services,5,2024,1004.4,Projection
+Physician and Clinical Services,5,2025,1061.3,Projection
+Physician and Clinical Services,5,2026,1115.8,Projection
+Physician and Clinical Services,5,2027,1172.0,Projection
+Other Professional Services,5,2018,100.8,Projection
+Other Professional Services,5,2019,106.1,Projection
+Other Professional Services,5,2020,112.0,Projection
+Other Professional Services,5,2021,118.5,Projection
+Other Professional Services,5,2022,125.6,Projection
+Other Professional Services,5,2023,133.1,Projection
+Other Professional Services,5,2024,141.2,Projection
+Other Professional Services,5,2025,149.0,Projection
+Other Professional Services,5,2026,156.8,Projection
+Other Professional Services,5,2027,165.3,Projection
+Dental Services,5,2018,134.0,Projection
+Dental Services,5,2019,139.9,Projection
+Dental Services,5,2020,146.4,Projection
+Dental Services,5,2021,153.3,Projection
+Dental Services,5,2022,161.3,Projection
+Dental Services,5,2023,169.8,Projection
+Dental Services,5,2024,178.5,Projection
+Dental Services,5,2025,187.2,Projection
+Dental Services,5,2026,195.6,Projection
+Dental Services,5,2027,203.9,Projection
+"Other Health, Residential, and Personal Care",4,2018,188.4,Projection
+"Other Health, Residential, and Personal Care",4,2019,196.9,Projection
+"Other Health, Residential, and Personal Care",4,2020,207.8,Projection
+"Other Health, Residential, and Personal Care",4,2021,220.3,Projection
+"Other Health, Residential, and Personal Care",4,2022,234.5,Projection
+"Other Health, Residential, and Personal Care",4,2023,249.5,Projection
+"Other Health, Residential, and Personal Care",4,2024,265.4,Projection
+"Other Health, Residential, and Personal Care",4,2025,282.0,Projection
+"Other Health, Residential, and Personal Care",4,2026,299.7,Projection
+"Other Health, Residential, and Personal Care",4,2027,318.6,Projection
+Home Health Care,4,2018,101.8,Projection
+Home Health Care,4,2019,108.8,Projection
+Home Health Care,4,2020,116.1,Projection
+Home Health Care,4,2021,124.2,Projection
+Home Health Care,4,2022,133.0,Projection
+Home Health Care,4,2023,142.4,Projection
+Home Health Care,4,2024,152.6,Projection
+Home Health Care,4,2025,163.4,Projection
+Home Health Care,4,2026,174.7,Projection
+Home Health Care,4,2027,186.8,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2018,170.8,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2019,178.0,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2020,186.3,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2021,195.5,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2022,206.2,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2023,217.8,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2024,230.2,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2025,243.2,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2026,256.7,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2027,270.7,Projection
+Retail Outlet Sales of Medical Products,4,2018,468.1,Projection
+Retail Outlet Sales of Medical Products,4,2019,490.5,Projection
+Retail Outlet Sales of Medical Products,4,2020,516.6,Projection
+Retail Outlet Sales of Medical Products,4,2021,545.8,Projection
+Retail Outlet Sales of Medical Products,4,2022,579.2,Projection
+Retail Outlet Sales of Medical Products,4,2023,615.5,Projection
+Retail Outlet Sales of Medical Products,4,2024,653.6,Projection
+Retail Outlet Sales of Medical Products,4,2025,693.2,Projection
+Retail Outlet Sales of Medical Products,4,2026,735.3,Projection
+Retail Outlet Sales of Medical Products,4,2027,779.4,Projection
+Prescription Drugs,5,2018,344.5,Projection
+Prescription Drugs,5,2019,360.3,Projection
+Prescription Drugs,5,2020,378.9,Projection
+Prescription Drugs,5,2021,400.4,Projection
+Prescription Drugs,5,2022,425.2,Projection
+Prescription Drugs,5,2023,452.4,Projection
+Prescription Drugs,5,2024,481.2,Projection
+Prescription Drugs,5,2025,511.1,Projection
+Prescription Drugs,5,2026,542.9,Projection
+Prescription Drugs,5,2027,576.7,Projection
+Durable Medical Equipment,5,2018,57.4,Projection
+Durable Medical Equipment,5,2019,60.9,Projection
+Durable Medical Equipment,5,2020,64.6,Projection
+Durable Medical Equipment,5,2021,68.6,Projection
+Durable Medical Equipment,5,2022,72.8,Projection
+Durable Medical Equipment,5,2023,77.5,Projection
+Durable Medical Equipment,5,2024,82.2,Projection
+Durable Medical Equipment,5,2025,87.2,Projection
+Durable Medical Equipment,5,2026,92.4,Projection
+Durable Medical Equipment,5,2027,97.8,Projection
+Other Non-Durable Medical Products,5,2018,66.2,Projection
+Other Non-Durable Medical Products,5,2019,69.3,Projection
+Other Non-Durable Medical Products,5,2020,73.0,Projection
+Other Non-Durable Medical Products,5,2021,76.9,Projection
+Other Non-Durable Medical Products,5,2022,81.2,Projection
+Other Non-Durable Medical Products,5,2023,85.6,Projection
+Other Non-Durable Medical Products,5,2024,90.2,Projection
+Other Non-Durable Medical Products,5,2025,95.0,Projection
+Other Non-Durable Medical Products,5,2026,99.9,Projection
+Other Non-Durable Medical Products,5,2027,105.0,Projection
+Government Administration,3,2018,46.7,Projection
+Government Administration,3,2019,49.4,Projection
+Government Administration,3,2020,52.0,Projection
+Government Administration,3,2021,54.9,Projection
+Government Administration,3,2022,58.5,Projection
+Government Administration,3,2023,62.5,Projection
+Government Administration,3,2024,66.6,Projection
+Government Administration,3,2025,70.9,Projection
+Government Administration,3,2026,75.8,Projection
+Government Administration,3,2027,81.0,Projection
+Net Cost of Health Insurance,3,2018,247.2,Projection
+Net Cost of Health Insurance,3,2019,252.0,Projection
+Net Cost of Health Insurance,3,2020,275.2,Projection
+Net Cost of Health Insurance,3,2021,294.0,Projection
+Net Cost of Health Insurance,3,2022,312.3,Projection
+Net Cost of Health Insurance,3,2023,331.7,Projection
+Net Cost of Health Insurance,3,2024,352.4,Projection
+Net Cost of Health Insurance,3,2025,373.8,Projection
+Net Cost of Health Insurance,3,2026,394.8,Projection
+Net Cost of Health Insurance,3,2027,417.3,Projection
+Government Public Health Activities,3,2018,91.1,Projection
+Government Public Health Activities,3,2019,93.6,Projection
+Government Public Health Activities,3,2020,96.2,Projection
+Government Public Health Activities,3,2021,99.1,Projection
+Government Public Health Activities,3,2022,102.8,Projection
+Government Public Health Activities,3,2023,106.5,Projection
+Government Public Health Activities,3,2024,110.4,Projection
+Government Public Health Activities,3,2025,114.7,Projection
+Government Public Health Activities,3,2026,119.2,Projection
+Government Public Health Activities,3,2027,123.2,Projection
+Investment,2,2018,176.5,Projection
+Investment,2,2019,185.5,Projection
+Investment,2,2020,195.1,Projection
+Investment,2,2021,205.6,Projection
+Investment,2,2022,216.9,Projection
+Investment,2,2023,228.6,Projection
+Investment,2,2024,241.1,Projection
+Investment,2,2025,254.3,Projection
+Investment,2,2026,268.3,Projection
+Investment,2,2027,283.3,Projection
+Research,3,2018,53.5,Projection
+Research,3,2019,56.2,Projection
+Research,3,2020,59.0,Projection
+Research,3,2021,62.0,Projection
+Research,3,2022,65.2,Projection
+Research,3,2023,68.4,Projection
+Research,3,2024,71.8,Projection
+Research,3,2025,75.3,Projection
+Research,3,2026,79.0,Projection
+Research,3,2027,83.3,Projection
+Structures and Equipment,3,2018,123.1,Projection
+Structures and Equipment,3,2019,129.3,Projection
+Structures and Equipment,3,2020,136.1,Projection
+Structures and Equipment,3,2021,143.6,Projection
+Structures and Equipment,3,2022,151.7,Projection
+Structures and Equipment,3,2023,160.2,Projection
+Structures and Equipment,3,2024,169.3,Projection
+Structures and Equipment,3,2025,179.0,Projection
+Structures and Equipment,3,2026,189.2,Projection
+Structures and Equipment,3,2027,200.0,Projection

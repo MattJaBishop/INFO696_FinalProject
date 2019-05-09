@@ -1,0 +1,193 @@
+Type,Level,Year,Cost,Time
+Hospital Care,4,1960,9.0,Historical
+Hospital Care,4,1970,27.2,Historical
+Hospital Care,4,1980,100.5,Historical
+Hospital Care,4,1990,250.4,Historical
+Hospital Care,4,2000,415.5,Historical
+Hospital Care,4,2001,449.4,Historical
+Hospital Care,4,2002,486.5,Historical
+Hospital Care,4,2003,525.9,Historical
+Hospital Care,4,2004,565.3,Historical
+Hospital Care,4,2005,608.6,Historical
+Hospital Care,4,2006,651.2,Historical
+Hospital Care,4,2007,691.9,Historical
+Hospital Care,4,2008,725.6,Historical
+Hospital Care,4,2009,779.6,Historical
+Hospital Care,4,2010,822.3,Historical
+Hospital Care,4,2011,851.9,Historical
+Hospital Care,4,2012,902.5,Historical
+Hospital Care,4,2013,937.6,Historical
+Hospital Care,4,2014,978.2,Historical
+Hospital Care,4,2015,1034.5,Historical
+Hospital Care,4,2016,1092.8,Historical
+Hospital Care,4,2017,1142.6,Historical
+Professional Services,4,1960,7.9,Historical
+Professional Services,4,1970,19.8,Historical
+Professional Services,4,1980,64.5,Historical
+Professional Services,4,1990,207.3,Historical
+Professional Services,4,2000,387.0,Historical
+Professional Services,4,2001,420.7,Historical
+Professional Services,4,2002,454.6,Historical
+Professional Services,4,2003,487.1,Historical
+Professional Services,4,2004,521.8,Historical
+Professional Services,4,2005,553.0,Historical
+Professional Services,4,2006,581.8,Historical
+Professional Services,4,2007,615.3,Historical
+Professional Services,4,2008,649.1,Historical
+Professional Services,4,2009,667.8,Historical
+Professional Services,4,2010,688.3,Historical
+Professional Services,4,2011,716.6,Historical
+Professional Services,4,2012,743.2,Historical
+Professional Services,4,2013,759.4,Historical
+Professional Services,4,2014,792.5,Historical
+Professional Services,4,2015,838.0,Historical
+Professional Services,4,2016,884.0,Historical
+Professional Services,4,2017,920.0,Historical
+"Other Health, Residential, and Personal Care",4,1960,0.4,Historical
+"Other Health, Residential, and Personal Care",4,1970,1.3,Historical
+"Other Health, Residential, and Personal Care",4,1980,8.4,Historical
+"Other Health, Residential, and Personal Care",4,1990,23.8,Historical
+"Other Health, Residential, and Personal Care",4,2000,63.9,Historical
+"Other Health, Residential, and Personal Care",4,2001,70.0,Historical
+"Other Health, Residential, and Personal Care",4,2002,76.7,Historical
+"Other Health, Residential, and Personal Care",4,2003,82.5,Historical
+"Other Health, Residential, and Personal Care",4,2004,89.3,Historical
+"Other Health, Residential, and Personal Care",4,2005,95.0,Historical
+"Other Health, Residential, and Personal Care",4,2006,101.1,Historical
+"Other Health, Residential, and Personal Care",4,2007,108.3,Historical
+"Other Health, Residential, and Personal Care",4,2008,114.5,Historical
+"Other Health, Residential, and Personal Care",4,2009,123.4,Historical
+"Other Health, Residential, and Personal Care",4,2010,129.1,Historical
+"Other Health, Residential, and Personal Care",4,2011,131.7,Historical
+"Other Health, Residential, and Personal Care",4,2012,139.1,Historical
+"Other Health, Residential, and Personal Care",4,2013,144.3,Historical
+"Other Health, Residential, and Personal Care",4,2014,151.5,Historical
+"Other Health, Residential, and Personal Care",4,2015,164.7,Historical
+"Other Health, Residential, and Personal Care",4,2016,173.4,Historical
+"Other Health, Residential, and Personal Care",4,2017,183.1,Historical
+Home Health Care,4,1960,0.1,Historical
+Home Health Care,4,1970,0.2,Historical
+Home Health Care,4,1980,2.4,Historical
+Home Health Care,4,1990,12.5,Historical
+Home Health Care,4,2000,32.3,Historical
+Home Health Care,4,2001,34.3,Historical
+Home Health Care,4,2002,36.5,Historical
+Home Health Care,4,2003,40.2,Historical
+Home Health Care,4,2004,44.6,Historical
+Home Health Care,4,2005,49.3,Historical
+Home Health Care,4,2006,52.1,Historical
+Home Health Care,4,2007,57.5,Historical
+Home Health Care,4,2008,62.3,Historical
+Home Health Care,4,2009,67.7,Historical
+Home Health Care,4,2010,71.6,Historical
+Home Health Care,4,2011,74.6,Historical
+Home Health Care,4,2012,78.3,Historical
+Home Health Care,4,2013,81.4,Historical
+Home Health Care,4,2014,84.8,Historical
+Home Health Care,4,2015,89.2,Historical
+Home Health Care,4,2016,93.1,Historical
+Home Health Care,4,2017,97.0,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1960,0.8,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1970,4.0,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1980,15.3,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,1990,44.7,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2000,85.0,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2001,90.8,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2002,94.5,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2003,100.1,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2004,105.1,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2005,111.4,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2006,115.9,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2007,124.9,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2008,130.5,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2009,135.2,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2010,140.5,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2011,145.4,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2012,147.4,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2013,149.0,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2014,152.4,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2015,158.1,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2016,163.0,Historical
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2017,166.3,Historical
+Retail Outlet Sales of Medical Products,4,1960,5.0,Historical
+Retail Outlet Sales of Medical Products,4,1970,10.6,Historical
+Retail Outlet Sales of Medical Products,4,1980,25.9,Historical
+Retail Outlet Sales of Medical Products,4,1990,76.5,Historical
+Retail Outlet Sales of Medical Products,4,2000,177.8,Historical
+Retail Outlet Sales of Medical Products,4,2001,196.4,Historical
+Retail Outlet Sales of Medical Products,4,2002,218.3,Historical
+Retail Outlet Sales of Medical Products,4,2003,241.4,Historical
+Retail Outlet Sales of Medical Products,4,2004,261.3,Historical
+Retail Outlet Sales of Medical Products,4,2005,278.3,Historical
+Retail Outlet Sales of Medical Products,4,2006,302.3,Historical
+Retail Outlet Sales of Medical Products,4,2007,320.5,Historical
+Retail Outlet Sales of Medical Products,4,2008,328.6,Historical
+Retail Outlet Sales of Medical Products,4,2009,340.9,Historical
+Retail Outlet Sales of Medical Products,4,2010,344.3,Historical
+Retail Outlet Sales of Medical Products,4,2011,353.9,Historical
+Retail Outlet Sales of Medical Products,4,2012,356.8,Historical
+Retail Outlet Sales of Medical Products,4,2013,366.3,Historical
+Retail Outlet Sales of Medical Products,4,2014,402.1,Historical
+Retail Outlet Sales of Medical Products,4,2015,433.3,Historical
+Retail Outlet Sales of Medical Products,4,2016,445.6,Historical
+Retail Outlet Sales of Medical Products,4,2017,451.9,Historical
+Hospital Care,4,2018,1193.4,Projection
+Hospital Care,4,2019,1254.7,Projection
+Hospital Care,4,2020,1318.7,Projection
+Hospital Care,4,2021,1390.1,Projection
+Hospital Care,4,2022,1471.3,Projection
+Hospital Care,4,2023,1559.3,Projection
+Hospital Care,4,2024,1652.4,Projection
+Hospital Care,4,2025,1751.6,Projection
+Hospital Care,4,2026,1858.1,Projection
+Hospital Care,4,2027,1961.6,Projection
+Professional Services,4,2018,962.8,Projection
+Professional Services,4,2019,1013.6,Projection
+Professional Services,4,2020,1067.1,Projection
+Professional Services,4,2021,1125.6,Projection
+Professional Services,4,2022,1186.9,Projection
+Professional Services,4,2023,1253.2,Projection
+Professional Services,4,2024,1324.1,Projection
+Professional Services,4,2025,1397.5,Projection
+Professional Services,4,2026,1468.2,Projection
+Professional Services,4,2027,1541.2,Projection
+"Other Health, Residential, and Personal Care",4,2018,188.4,Projection
+"Other Health, Residential, and Personal Care",4,2019,196.9,Projection
+"Other Health, Residential, and Personal Care",4,2020,207.8,Projection
+"Other Health, Residential, and Personal Care",4,2021,220.3,Projection
+"Other Health, Residential, and Personal Care",4,2022,234.5,Projection
+"Other Health, Residential, and Personal Care",4,2023,249.5,Projection
+"Other Health, Residential, and Personal Care",4,2024,265.4,Projection
+"Other Health, Residential, and Personal Care",4,2025,282.0,Projection
+"Other Health, Residential, and Personal Care",4,2026,299.7,Projection
+"Other Health, Residential, and Personal Care",4,2027,318.6,Projection
+Home Health Care,4,2018,101.8,Projection
+Home Health Care,4,2019,108.8,Projection
+Home Health Care,4,2020,116.1,Projection
+Home Health Care,4,2021,124.2,Projection
+Home Health Care,4,2022,133.0,Projection
+Home Health Care,4,2023,142.4,Projection
+Home Health Care,4,2024,152.6,Projection
+Home Health Care,4,2025,163.4,Projection
+Home Health Care,4,2026,174.7,Projection
+Home Health Care,4,2027,186.8,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2018,170.8,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2019,178.0,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2020,186.3,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2021,195.5,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2022,206.2,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2023,217.8,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2024,230.2,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2025,243.2,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2026,256.7,Projection
+Nursing Care Facilities and Continuing Care Retirement Communities,4,2027,270.7,Projection
+Retail Outlet Sales of Medical Products,4,2018,468.1,Projection
+Retail Outlet Sales of Medical Products,4,2019,490.5,Projection
+Retail Outlet Sales of Medical Products,4,2020,516.6,Projection
+Retail Outlet Sales of Medical Products,4,2021,545.8,Projection
+Retail Outlet Sales of Medical Products,4,2022,579.2,Projection
+Retail Outlet Sales of Medical Products,4,2023,615.5,Projection
+Retail Outlet Sales of Medical Products,4,2024,653.6,Projection
+Retail Outlet Sales of Medical Products,4,2025,693.2,Projection
+Retail Outlet Sales of Medical Products,4,2026,735.3,Projection
+Retail Outlet Sales of Medical Products,4,2027,779.4,Projection

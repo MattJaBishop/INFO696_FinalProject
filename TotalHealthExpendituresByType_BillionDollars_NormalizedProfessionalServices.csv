@@ -1,0 +1,97 @@
+Type,Level,Year,Cost,Time
+Physician and Clinical Services,5,1960,5.6,Historical
+Physician and Clinical Services,5,1970,14.3,Historical
+Physician and Clinical Services,5,1980,47.7,Historical
+Physician and Clinical Services,5,1990,158.4,Historical
+Physician and Clinical Services,5,2000,288.2,Historical
+Physician and Clinical Services,5,2001,312.7,Historical
+Physician and Clinical Services,5,2002,337.7,Historical
+Physician and Clinical Services,5,2003,364.3,Historical
+Physician and Clinical Services,5,2004,389.4,Historical
+Physician and Clinical Services,5,2005,413.0,Historical
+Physician and Clinical Services,5,2006,434.7,Historical
+Physician and Clinical Services,5,2007,457.5,Historical
+Physician and Clinical Services,5,2008,481.9,Historical
+Physician and Clinical Services,5,2009,497.7,Historical
+Physician and Clinical Services,5,2010,512.6,Historical
+Physician and Clinical Services,5,2011,535.9,Historical
+Physician and Clinical Services,5,2012,557.1,Historical
+Physician and Clinical Services,5,2013,569.6,Historical
+Physician and Clinical Services,5,2014,595.7,Historical
+Physician and Clinical Services,5,2015,631.2,Historical
+Physician and Clinical Services,5,2016,666.5,Historical
+Physician and Clinical Services,5,2017,694.3,Historical
+Other Professional Services,5,1960,0.4,Historical
+Other Professional Services,5,1970,0.7,Historical
+Other Professional Services,5,1980,3.5,Historical
+Other Professional Services,5,1990,17.3,Historical
+Other Professional Services,5,2000,36.6,Historical
+Other Professional Services,5,2001,40.3,Historical
+Other Professional Services,5,2002,43.3,Historical
+Other Professional Services,5,2003,46.5,Historical
+Other Professional Services,5,2004,50.2,Historical
+Other Professional Services,5,2005,52.8,Historical
+Other Professional Services,5,2006,55.3,Historical
+Other Professional Services,5,2007,60.1,Historical
+Other Professional Services,5,2008,64.5,Historical
+Other Professional Services,5,2009,67.0,Historical
+Other Professional Services,5,2010,69.9,Historical
+Other Professional Services,5,2011,72.8,Historical
+Other Professional Services,5,2012,76.4,Historical
+Other Professional Services,5,2013,78.7,Historical
+Other Professional Services,5,2014,83.0,Historical
+Other Professional Services,5,2015,87.8,Historical
+Other Professional Services,5,2016,92.4,Historical
+Other Professional Services,5,2017,96.6,Historical
+Dental Services,5,1960,2.0,Historical
+Dental Services,5,1970,4.7,Historical
+Dental Services,5,1980,13.3,Historical
+Dental Services,5,1990,31.6,Historical
+Dental Services,5,2000,62.1,Historical
+Dental Services,5,2001,67.7,Historical
+Dental Services,5,2002,73.6,Historical
+Dental Services,5,2003,76.3,Historical
+Dental Services,5,2004,82.2,Historical
+Dental Services,5,2005,87.2,Historical
+Dental Services,5,2006,91.8,Historical
+Dental Services,5,2007,97.7,Historical
+Dental Services,5,2008,102.7,Historical
+Dental Services,5,2009,103.1,Historical
+Dental Services,5,2010,105.9,Historical
+Dental Services,5,2011,108.0,Historical
+Dental Services,5,2012,109.7,Historical
+Dental Services,5,2013,111.1,Historical
+Dental Services,5,2014,113.8,Historical
+Dental Services,5,2015,118.9,Historical
+Dental Services,5,2016,125.1,Historical
+Dental Services,5,2017,129.1,Historical
+Physician and Clinical Services,5,2018,728.0,Projection
+Physician and Clinical Services,5,2019,767.6,Projection
+Physician and Clinical Services,5,2020,808.8,Projection
+Physician and Clinical Services,5,2021,853.7,Projection
+Physician and Clinical Services,5,2022,900.0,Projection
+Physician and Clinical Services,5,2023,950.3,Projection
+Physician and Clinical Services,5,2024,1004.4,Projection
+Physician and Clinical Services,5,2025,1061.3,Projection
+Physician and Clinical Services,5,2026,1115.8,Projection
+Physician and Clinical Services,5,2027,1172.0,Projection
+Other Professional Services,5,2018,100.8,Projection
+Other Professional Services,5,2019,106.1,Projection
+Other Professional Services,5,2020,112.0,Projection
+Other Professional Services,5,2021,118.5,Projection
+Other Professional Services,5,2022,125.6,Projection
+Other Professional Services,5,2023,133.1,Projection
+Other Professional Services,5,2024,141.2,Projection
+Other Professional Services,5,2025,149.0,Projection
+Other Professional Services,5,2026,156.8,Projection
+Other Professional Services,5,2027,165.3,Projection
+Dental Services,5,2018,134.0,Projection
+Dental Services,5,2019,139.9,Projection
+Dental Services,5,2020,146.4,Projection
+Dental Services,5,2021,153.3,Projection
+Dental Services,5,2022,161.3,Projection
+Dental Services,5,2023,169.8,Projection
+Dental Services,5,2024,178.5,Projection
+Dental Services,5,2025,187.2,Projection
+Dental Services,5,2026,195.6,Projection
+Dental Services,5,2027,203.9,Projection

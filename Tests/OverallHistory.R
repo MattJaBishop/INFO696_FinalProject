@@ -19,4 +19,4 @@ interactive_plot
 
 library(plotly)
 
-api_create(interactive_plot, filename = "FirstGraph")
+api_create(interactive_plot, filename = "OverallHistory")

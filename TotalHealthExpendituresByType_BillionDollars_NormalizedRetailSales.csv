@@ -1,0 +1,97 @@
+Type,Level,Year,Cost,Time
+Prescription Drugs,5,1960,2.7,Historical
+Prescription Drugs,5,1970,5.5,Historical
+Prescription Drugs,5,1980,12.0,Historical
+Prescription Drugs,5,1990,40.3,Historical
+Prescription Drugs,5,2000,121.0,Historical
+Prescription Drugs,5,2001,139.0,Historical
+Prescription Drugs,5,2002,157.9,Historical
+Prescription Drugs,5,2003,176.7,Historical
+Prescription Drugs,5,2004,192.8,Historical
+Prescription Drugs,5,2005,205.2,Historical
+Prescription Drugs,5,2006,224.1,Historical
+Prescription Drugs,5,2007,235.7,Historical
+Prescription Drugs,5,2008,241.5,Historical
+Prescription Drugs,5,2009,252.7,Historical
+Prescription Drugs,5,2010,253.1,Historical
+Prescription Drugs,5,2011,258.8,Historical
+Prescription Drugs,5,2012,259.2,Historical
+Prescription Drugs,5,2013,265.2,Historical
+Prescription Drugs,5,2014,297.9,Historical
+Prescription Drugs,5,2015,324.5,Historical
+Prescription Drugs,5,2016,332.0,Historical
+Prescription Drugs,5,2017,333.4,Historical
+Durable Medical Equipment,5,1960,0.7,Historical
+Durable Medical Equipment,5,1970,1.7,Historical
+Durable Medical Equipment,5,1980,4.1,Historical
+Durable Medical Equipment,5,1990,13.8,Historical
+Durable Medical Equipment,5,2000,25.2,Historical
+Durable Medical Equipment,5,2001,25.1,Historical
+Durable Medical Equipment,5,2002,27.1,Historical
+Durable Medical Equipment,5,2003,28.5,Historical
+Durable Medical Equipment,5,2004,30.4,Historical
+Durable Medical Equipment,5,2005,32.4,Historical
+Durable Medical Equipment,5,2006,34.4,Historical
+Durable Medical Equipment,5,2007,37.1,Historical
+Durable Medical Equipment,5,2008,37.7,Historical
+Durable Medical Equipment,5,2009,37.8,Historical
+Durable Medical Equipment,5,2010,39.9,Historical
+Durable Medical Equipment,5,2011,42.3,Historical
+Durable Medical Equipment,5,2012,43.7,Historical
+Durable Medical Equipment,5,2013,45.1,Historical
+Durable Medical Equipment,5,2014,46.7,Historical
+Durable Medical Equipment,5,2015,48.6,Historical
+Durable Medical Equipment,5,2016,51.0,Historical
+Durable Medical Equipment,5,2017,54.4,Historical
+Other Non-Durable Medical Products,5,1960,1.6,Historical
+Other Non-Durable Medical Products,5,1970,3.3,Historical
+Other Non-Durable Medical Products,5,1980,9.8,Historical
+Other Non-Durable Medical Products,5,1990,22.4,Historical
+Other Non-Durable Medical Products,5,2000,31.6,Historical
+Other Non-Durable Medical Products,5,2001,32.2,Historical
+Other Non-Durable Medical Products,5,2002,33.3,Historical
+Other Non-Durable Medical Products,5,2003,36.2,Historical
+Other Non-Durable Medical Products,5,2004,38.1,Historical
+Other Non-Durable Medical Products,5,2005,40.8,Historical
+Other Non-Durable Medical Products,5,2006,43.7,Historical
+Other Non-Durable Medical Products,5,2007,47.8,Historical
+Other Non-Durable Medical Products,5,2008,49.5,Historical
+Other Non-Durable Medical Products,5,2009,50.4,Historical
+Other Non-Durable Medical Products,5,2010,51.3,Historical
+Other Non-Durable Medical Products,5,2011,52.9,Historical
+Other Non-Durable Medical Products,5,2012,53.9,Historical
+Other Non-Durable Medical Products,5,2013,56.0,Historical
+Other Non-Durable Medical Products,5,2014,57.5,Historical
+Other Non-Durable Medical Products,5,2015,60.2,Historical
+Other Non-Durable Medical Products,5,2016,62.7,Historical
+Other Non-Durable Medical Products,5,2017,64.1,Historical
+Prescription Drugs,5,2018,344.5,Projection
+Prescription Drugs,5,2019,360.3,Projection
+Prescription Drugs,5,2020,378.9,Projection
+Prescription Drugs,5,2021,400.4,Projection
+Prescription Drugs,5,2022,425.2,Projection
+Prescription Drugs,5,2023,452.4,Projection
+Prescription Drugs,5,2024,481.2,Projection
+Prescription Drugs,5,2025,511.1,Projection
+Prescription Drugs,5,2026,542.9,Projection
+Prescription Drugs,5,2027,576.7,Projection
+Durable Medical Equipment,5,2018,57.4,Projection
+Durable Medical Equipment,5,2019,60.9,Projection
+Durable Medical Equipment,5,2020,64.6,Projection
+Durable Medical Equipment,5,2021,68.6,Projection
+Durable Medical Equipment,5,2022,72.8,Projection
+Durable Medical Equipment,5,2023,77.5,Projection
+Durable Medical Equipment,5,2024,82.2,Projection
+Durable Medical Equipment,5,2025,87.2,Projection
+Durable Medical Equipment,5,2026,92.4,Projection
+Durable Medical Equipment,5,2027,97.8,Projection
+Other Non-Durable Medical Products,5,2018,66.2,Projection
+Other Non-Durable Medical Products,5,2019,69.3,Projection
+Other Non-Durable Medical Products,5,2020,73.0,Projection
+Other Non-Durable Medical Products,5,2021,76.9,Projection
+Other Non-Durable Medical Products,5,2022,81.2,Projection
+Other Non-Durable Medical Products,5,2023,85.6,Projection
+Other Non-Durable Medical Products,5,2024,90.2,Projection
+Other Non-Durable Medical Products,5,2025,95.0,Projection
+Other Non-Durable Medical Products,5,2026,99.9,Projection
+Other Non-Durable Medical Products,5,2027,105.0,Projection
